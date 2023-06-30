@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 #!/bin/bash
 echo "ALX" 
@@ -6,3 +7,6 @@ echo "ALX"
 echo "ALX" 
 #!/bin/bash
 echo "ALX" 
+=======
+echo "The school is open!"
+>>>>>>> origin/update_script
